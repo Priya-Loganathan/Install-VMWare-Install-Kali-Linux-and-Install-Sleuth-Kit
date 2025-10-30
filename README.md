@@ -68,22 +68,15 @@ Reg No: 212222100012
 ```
 **VIRTUAL BOX:**
 
+ <img width="1365" height="762" alt="Screenshot 2025-10-30 131639" src="https://github.com/user-attachments/assets/f923c50a-bdcb-4b7d-b166-5e36e9ce395f" />
 
-![kali](https://github.com/user-attachments/assets/16145c2a-2d23-4ce3-98b3-782704b51d21)
-
-
-
- 
 **KALI LINUX:**
 
 ![desktop](https://github.com/user-attachments/assets/cd1adf4e-3cf9-457c-9bc6-bd892704ffa7)
 
-
-
 **SLEUTH-KIT:**
 
-
-![Screenshot 2025-04-10 203954](https://github.com/user-attachments/assets/ad3b60f8-8ad6-4c6c-9cae-4de229dfaf84)
+<img width="527" height="298" alt="Screenshot 2025-10-30 133127" src="https://github.com/user-attachments/assets/85b30461-a9f4-4455-85ca-5df84435deac" />
 
 
 ## RESULT:
